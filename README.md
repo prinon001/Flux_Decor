@@ -14,7 +14,7 @@
   <a href="https://qm.qq.com/q/44YQQHzax">QQ 2群</a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/release-v1.0.0-blue">
+  <img src="https://img.shields.io/badge/release-v3.6.0-blue">
   <img src="https://img.shields.io/badge/Platform-Android-green">
   <img src="https://img.shields.io/badge/minSdk-35-orange">
   <img src="https://img.shields.io/badge/targetSdk-37-yellow">
