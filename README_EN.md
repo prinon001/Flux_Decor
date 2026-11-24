@@ -14,7 +14,7 @@
   <a href="https://qm.qq.com/q/44YQQHzax">QQ Group 2</a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/release-v4.2.0-blue">
+  <img src="https://img.shields.io/badge/release-v4.3.1-blue">
   <img src="https://img.shields.io/badge/Platform-Android-green">
   <img src="https://img.shields.io/badge/License-AGPL--3.0-lightgrey">
 </p>
@@ -38,6 +38,7 @@ Status Bar Info Strip | Free positioning, supports weather / static text / devic
 Status Bar Graphics | Import custom graphics, built-in presets, free positioning, scheduled switching
 Status Bar Status Icons | Move Bluetooth / mute icons to the left, custom icon import, built-in presets, adjustable size and position
 Status Bar Connected Device Icons | Show headset / speaker icons on the left, custom icon import, built-in presets, adjustable size and position
+Status bar gestures | Support for triggering actions by swiping left/right/up on the status bar to open corresponding quick operations
 Lock Screen | Hide fingerprint ring, notification sinking, depth of field unlock, widgets, bottom bar music, keyboard background, built-in graphics
 Home Screen Widgets | Multi-size widgets, dozens of customizable content items
 Notification Center | iOS-style layout, free positioning, built-in numeric styles, second display, focus notification background
